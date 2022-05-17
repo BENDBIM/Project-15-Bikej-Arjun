@@ -1,0 +1,17 @@
+
+For Admin Panel
+
+Open Your browser put inside browser “http://localhost/bikerental/admin”
+
+USERNAME : apple
+
+PASSWORD : apple123
+
+
+For Dashboard
+
+Update password : 
+email: admin@gmail.com
+
+
+
